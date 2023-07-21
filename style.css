@@ -223,7 +223,11 @@ button{
     display: flex;
     flex-direction: column;
     margin-top: 18rem;
-    padding-left: 2rem;
+}
+
+.drop {
+    position: absolute;
+    left: 520px;
 }
 
 }
